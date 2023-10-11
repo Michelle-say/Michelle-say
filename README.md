@@ -1,6 +1,13 @@
-### Hi there 👋
+### Hi 🌍, I'm Michelle👋😃
+![nounou_card](https://github.com/Michelle-say/Michelle-say/assets/77339472/f4744007-4a82-44cd-a846-513dd7d971e2)
+![nounou1](https://github.com/Michelle-say/Michelle-say/assets/77339472/06d85443-2a99-4871-be61-170de9e6947e)
+![nounou2](https://github.com/Michelle-say/Michelle-say/assets/77339472/c2d0d76e-facf-44a9-b95f-d486db7e288e)
 
-
+<img
+  src="/path/to/nounou_card.jpg"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
 **Michelle-say/Michelle-say** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
