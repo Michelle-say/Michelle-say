@@ -4,7 +4,7 @@
 ![nounou2](https://github.com/Michelle-say/Michelle-say/assets/77339472/c2d0d76e-facf-44a9-b95f-d486db7e288e)
 
 <img
-  src="/path/to/nounou_card.jpg"
+  src="nounou_card.png"
   alt="Alt text"
   title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
