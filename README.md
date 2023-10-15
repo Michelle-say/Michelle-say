@@ -1,15 +1,7 @@
-### Hi 🌍, I'm Michelle👋😃
+# Hi 🌍, I'm Michelle👋😃
 
 
-
-<img
-  src="nounou_card.png"
-  alt="Alt text"
-  title="Optional title"
-  styles= margin>
-**Michelle-say/Michelle-say** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![Cover](https://github.com/NicolasBrondin/NicolasBrondin/blob/master/img/nounou_card.png)
-<img src="nounou_card.png" alt="banner that says Michelle - artificial intelligence developper">
+<img src="https://github.com/Michelle-say/Michelle-say/blob/main/img/nounou_card.png" alt="banner that says Michelle - artificial intelligence developper" width="1200">
 I'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL. In 2020, I was selected to be an inaugural <a href="https://stars.github.com/">GitHub Star 🌟</a> based on my involvement in the tech community.  My interest in the React ecosystem led me to launch <a href="https://www.reactrobins.com/">React Robins</a>, a community for women and non-binary ReactJS developers.
 
 
