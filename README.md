@@ -33,9 +33,9 @@ ___
 
 
 
-## Find me around the web 🌎: <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/Michelle-say/Michelle-say/blob/main/img/giphy.gif"></a>
+## Find me around the web 🌎: <a href="https://www.linkedin.com/in/michelle-saypraseut/"><img align="left" width="150" height="150" src="https://github.com/Michelle-say/Michelle-say/blob/main/img/giphy.gif"></a>
 
- 💼 ✍🏾 Contact me for more information <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> <a href="https://www.linkedin.com/in/michelle-saypraseut/"></a>
+ 💼 ✍🏾 Contact me for more information <a href="https://www.linkedin.com/in/michelle-saypraseut/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   
 
 
