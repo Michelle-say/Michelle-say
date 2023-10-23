@@ -2,7 +2,7 @@
 
 
 <img src="https://github.com/Michelle-say/Michelle-say/blob/main/img/nounou_card.png" alt="banner that says Michelle - artificial intelligence developper" width="1200">
-I'm an artificial intelligence developer with a passion for computer vision. My previous assignment as a data scientist, which involved implementing a detection algorithm and deploying this model on an embedded system/mobile application (Fast API + vue.js), has just come to an end, so I'm looking for new challenges.
+I'm an artificial intelligence developper with a passion for computer vision. My previous assignment as a data scientist, which involved implementing a detection algorithm and deploying this model on an embedded system/mobile application (Fast API + vue.js), has just come to an end, so I'm looking for new challenges.
 
 ___
 
